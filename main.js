@@ -56,7 +56,7 @@ function $state(iv) {
 const state = $state({
 	count: 0,
 	checked: false,
-	value: 'The most useless demo',
+       value: 'The Most useless demo!',
 });
 
 $effect(() => {
